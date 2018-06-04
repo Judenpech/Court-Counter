@@ -14,3 +14,4 @@ This application uses the Gradle build system. To build this project, use the "g
 
 ## Preview
 
+![](https://github.com/jl223vy/Court-Counter/raw/master/preview/image.jpg)
